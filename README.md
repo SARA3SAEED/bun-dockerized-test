@@ -1,4 +1,4 @@
-# Dependecies
+# Dependecies1
 
 REF: [bun.sh](https://bun.sh)
 
