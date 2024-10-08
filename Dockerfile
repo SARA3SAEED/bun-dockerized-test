@@ -4,4 +4,4 @@ WORKDIR /app
 
 COPY ./server.tsx .
 
-CMD ["bun", "run", "server.tsx"]
+CMD ["bun", "test", "server.tsx"]
